@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/bureauEtude/src/ma/projet/service/ProjetService.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/bureauEtude/src/ma/projet/service/EmployeTacheServicePk.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/bureauEtude/src/ma/projet/entity/Employe.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/bureauEtude/src/ma/projet/config/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/bureauEtude/src/ma/projet/entity/EmployeTache.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/bureauEtude/src/ma/projet/entity/Tache.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/bureauEtude/src/ma/projet/entity/Projet.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/bureauEtude/src/ma/projet/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/bureauEtude/src/ma/projet/test/Test.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/bureauEtude/src/ma/projet/service/EmployeService.java</file>
+        </group>
+    </open-files>
+</project-private>
